@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Wiązania Pythona 2 do biblioteki NaCl (Networking and Crypto
 Name:		python-%{module}
 # keep 1.4.x here for python2 support
 Version:	1.4.0
-Release:	6
+Release:	7
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://github.com/pyca/pynacl/archive/%{version}/pynacl-%{version}.tar.gz
